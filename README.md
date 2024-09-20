@@ -1,5 +1,3 @@
-# Pizza-Sales-Analysis
-
 # Data Analysis and Visualization
   Comprehensive analysis of pizza sales data using various Excel functions and formulas.
  * Effective use of charts and graphs (e.g., bar charts, pie charts, line charts) to visualize trends, patterns, and relationships in the data.
