@@ -12,3 +12,7 @@
  * Revealed the top-selling pizza categories and sizes (e.g., Classic, Chicken, Large) contributing to maximum sales and total orders.
  * Highlighted the best and worst-selling pizzas based on total pizzas sold and revenue.
  * Analyzed sales trends over time using a timeline slicer/filter to identify seasonal variations or other patterns.
+
+
+
+![Uploading image.png…]()
